@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735305251011",
+    "firebase_url": "https://chatcloneapp.firebaseio.com",
+    "project_id": "chatcloneapp",
+    "storage_bucket": "chatcloneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735305251011:android:a16cbfe56e4ae1de",
+        "android_client_info": {
+          "package_name": "com.example.chatcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735305251011-rlj3t1a17hc6qeemqsj8a3do9oir3hnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatcloneapp",
+            "certificate_hash": "108c2d0b3e4ceb7bcaadc4a875a8472ddf80e54f"
+          }
+        },
+        {
+          "client_id": "735305251011-4nq5mqk76ivji3g6i1p0l5pnp27kcq4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmw67xAeN6XFS1RjkR_hxaKNXIRLDv_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735305251011-4nq5mqk76ivji3g6i1p0l5pnp27kcq4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat Clone App</string>
+    <string name="need_a_new_account">Need a New Account</string>
+    <string name="logout">logout</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
